@@ -1,0 +1,20 @@
+body{
+    background: lawngreen;
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+.in{
+    float: bottom;
+}
+.start{
+    font-size: 30px;
+    text-align: center;
+}
+.button{
+    border-radius: 30px;
+    margin-left: 250px;
+}
+.ip{
+    border-radius: 30px;
+}
